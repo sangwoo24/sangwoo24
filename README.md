@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    Hi, I'm Sangwoo~ 👋🏻 <br>
+    🤨I attend kpu and my major is embedded system.<br>
+    I’m currently learning Swift5 and Algorithm...📚<br>
+    🧑🏻‍💻Dream : Becoming an app developer capable of developing both ios and android<br>
+    🐌Favorite Tech : Python, Java, C, Swift5<br>
+    ✉️ tjrtkddnaos@naver.com <br>
+    🎨 Portfolio: https://sangwoo24.github.io
+  </samp>
+</p>
 
-<!--
-**sangwoo24/sangwoo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
