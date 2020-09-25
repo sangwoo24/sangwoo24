@@ -1,5 +1,5 @@
-![KakaoTalk_Photo_2020-09-25-23-52-25](https://user-images.githubusercontent.com/56511253/94282022-51226600-ff8a-11ea-97ba-857312a15da4.jpeg)
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/56511253/94282022-51226600-ff8a-11ea-97ba-857312a15da4.jpeg" alt="My Image" width="50%" height ="10%"><br>
   <samp>
     Hi, I'm Sangwoo~ 👋🏻 <br>
     🤨I attend kpu and my major is embedded system.<br>
