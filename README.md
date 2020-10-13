@@ -7,7 +7,7 @@
     🧑🏻‍💻Dream : Becoming an app developer capable of developing both iOS and Android<br>
     ✨Favorite Tech : Python, Java, C, Swift5<br>
     ✉️ tjrtkddnaos@naver.com <br>
-    🎨 Portfolio: https://sangwoo24.github.io
+    🎨 Portfolio: https://sangwoo24.github.io<br>
     ☃️ Blog : https://velog.io/@sangwoo24
   </samp>
 </p>
