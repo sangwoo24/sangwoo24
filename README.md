@@ -8,7 +8,7 @@
     ✨Favorite Tech : Python, Java, C, Swift5<br>
     ✉️ tjrtkddnaos@naver.com <br>
     🎨 Portfolio: https://www.notion.so/868d4a49362d43b0ba28c09cfc611981<br>
-    ☃️ Blog : https://velog.io/@sangwoo24
+    ☃️ Blog : https://tjrtkddnaos.tistory.com/
   </samp>
 </p>
 
