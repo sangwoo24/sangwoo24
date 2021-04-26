@@ -17,8 +17,3 @@
 ## BOJ
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjrtkddnaos)](https://solved.ac/tjrtkddnaos/)
-<br>
-
-## Git stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sangwoo24&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
