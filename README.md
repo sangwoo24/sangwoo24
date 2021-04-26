@@ -14,6 +14,6 @@
   </samp>
 </p>
 
-## BOJ
+## BOJ 🏅
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjrtkddnaos)](https://solved.ac/tjrtkddnaos/)
