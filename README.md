@@ -9,7 +9,7 @@
     ✨Contact✨ <br>
    <a href="https://www.notion.so/868d4a49362d43b0ba28c09cfc611981" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
    <a href="tjrtkddnaos@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-   <a href="https://tjrtkddnaos.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-623CE4?style=flat-square&logo=TV Time&logoColor=white"/></a>
+   <a href="https://tjrtkddnaos.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=TV-Time&logoColor=white"/></a>
   </samp>
 </p>
 
