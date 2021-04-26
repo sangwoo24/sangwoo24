@@ -3,7 +3,8 @@
   <samp>
     Hi, I'm Sangwoo~ 👋🏻 <br>
     🤨I graduated kpu and my major is embedded system.<br>
-    I’m currently learning Swift5 and Algorithm...📚<br><br>
+    I’m currently learning Swift5 and Algorithm...📚<br>
+    🧑🏻‍💻Dream : Becoming an app developer capable of developing both iOS and Android<br><br>
     ⚒️ Favorite Tech ⚒️<br>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <br><br>
     ✨ Contact ✨ <br>
